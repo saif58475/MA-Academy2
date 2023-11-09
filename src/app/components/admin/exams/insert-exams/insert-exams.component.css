@@ -1,0 +1,9 @@
+
+.selectquestion:hover{
+    cursor: pointer;
+}
+
+label{
+    float: right;
+}
+
